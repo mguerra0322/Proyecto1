@@ -1,0 +1,4 @@
+archivo2.txt
+
+he aprendido a eliminar y
+recuperar archivos en git 
